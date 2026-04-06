@@ -63,7 +63,7 @@ Do NOT read all session files. Only the most recent one.
 - Commit code before running /clear
 ```
 
-**Step 2:** Create `PROGRESS.md` in your project root:
+**Step 2:** Create a file called `PROGRESS.md` in your project root and paste this:
 
 ```markdown
 # Progress
@@ -79,13 +79,14 @@ Do NOT read all session files. Only the most recent one.
 ## Last Updated: [Today's date]
 ```
 
-**Step 3:** Create the wrap-up skill at `.claude/skills/wrap-up.md`. Copy it from [this repo's skill file](https://github.com/anmolgupta824/claude-context-manager/blob/main/.claude/skills/wrap-up.md).
+**Step 3:** Download the wrap-up skill:
+1. Go to [this repo on GitHub](https://github.com/anmolgupta824/claude-context-manager)
+2. Click the green **Code** button → **Download ZIP**
+3. Unzip it and copy the `.claude/skills/` folder into your project
 
-**Step 4:** Create the sessions folder:
+Your project should now have: `your-project/.claude/skills/wrap-up.md`
 
-```bash
-mkdir -p docs/sessions
-```
+**Step 4:** Create a folder called `docs/sessions/` in your project (this is where daily session files will go).
 
 Done. Run `/wrap-up` at the end of your day, and tomorrow Claude picks up where you left off.
 
