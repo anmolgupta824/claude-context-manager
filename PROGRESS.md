@@ -1,17 +1,11 @@
 # Progress
-
-## Status: [In Progress / MVP / Live]
-
+## Status: Getting Started
 ## Live
-- [List what's shipped and working]
-
+- Nothing yet
 ## Building
-- [What's currently being built]
-
+- [Edit this with your project]
 ## Blockers
-- [None / list blockers]
-
+- None
 ## Key Decisions
-- [Important decisions and why they were made]
-
-## Last Updated: [DATE]
+- None yet
+## Last Updated: [Edit this date]
