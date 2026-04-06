@@ -45,8 +45,9 @@ claude-context-manager/
 │   ├── product/
 │   ├── marketing/
 │   └── tester/
-├── skills/
-│   └── wrap-up.md              ← /wrap-up skill definition
+├── .claude/
+│   └── skills/
+│       └── wrap-up.md          ← /wrap-up skill definition
 ├── examples/
 │   ├── session-file-example.md
 │   └── progress-example.md
@@ -62,7 +63,7 @@ git clone https://github.com/anmolgupta824/claude-context-manager.git
 # Copy into your project
 cp CLAUDE.md your-project/CLAUDE.md
 cp PROGRESS.md your-project/PROGRESS.md
-cp -r skills/ your-project/.claude/skills/
+cp -r .claude/skills/ your-project/.claude/skills/
 mkdir -p your-project/docs/sessions/
 
 # Start working. At end of day:
@@ -79,7 +80,7 @@ git clone https://github.com/anmolgupta824/claude-context-manager.git
 # Copy everything into your project
 cp CLAUDE.md your-project/CLAUDE.md
 cp PROGRESS.md your-project/PROGRESS.md
-cp -r skills/ your-project/.claude/skills/
+cp -r .claude/skills/ your-project/.claude/skills/
 cp -r agents/ your-project/.claude/agents/
 mkdir -p your-project/docs/sessions/
 
