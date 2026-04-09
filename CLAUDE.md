@@ -9,6 +9,9 @@ On startup, read these files in this order:
 Do NOT read all session files. Only the most recent one.
 Do NOT read other agents' files unless you are the CEO agent.
 
+## On First Message
+After loading context, your first reply to the user should briefly confirm what you loaded: project name, current status (from PROGRESS.md), and the date of the most recent session file. Keep it to 2–3 lines, then ask what they want to work on. This signals to the user that the context system is working.
+
 ## Skills
 - /wrap-up — End of day. Creates session file, updates PROGRESS.md, writes agent status.
 
