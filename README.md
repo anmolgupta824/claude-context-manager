@@ -1,5 +1,7 @@
 # Claude Context Manager
 
+[![GitHub stars](https://img.shields.io/github/stars/anmolgupta824/claude-context-manager?style=social)](https://github.com/anmolgupta824/claude-context-manager/stargazers)
+
 Never re-explain your project again. Save daily context, restore it instantly.
 
 Works with Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Codex, Devin, and Replit.
@@ -269,3 +271,7 @@ Full Claude Code course: [theainativepm.com/modules](https://theainativepm.com/m
 ## License
 
 MIT
+
+---
+
+⭐ **[Star this repo](https://github.com/anmolgupta824/claude-context-manager/stargazers)** if it saves you time — it helps others find it.
