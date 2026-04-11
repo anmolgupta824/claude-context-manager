@@ -1,10 +1,26 @@
-# Claude Context Manager
+<p align="center">
+  <h1 align="center">Claude Context Manager</h1>
+  <p align="center">
+    Never re-explain your project again. Save daily context, restore it instantly. Works with Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Codex, Devin, and Replit.
+  </p>
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/anmolgupta824/claude-context-manager?style=social)](https://github.com/anmolgupta824/claude-context-manager/stargazers)
+<p align="center">
+  <a href="https://github.com/anmolgupta824/claude-context-manager/stargazers"><img src="https://img.shields.io/github/stars/anmolgupta824/claude-context-manager?style=for-the-badge&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/anmolgupta824/claude-context-manager/network/members"><img src="https://img.shields.io/github/forks/anmolgupta824/claude-context-manager?style=for-the-badge" alt="Forks"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/anmolgupta824/claude-context-manager/issues"><img src="https://img.shields.io/github/issues/anmolgupta824/claude-context-manager?style=for-the-badge" alt="Issues"></a>
+</p>
 
-Never re-explain your project again. Save daily context, restore it instantly.
+<p align="center">
+  <b>3 files. 1 skill. Zero re-explaining.</b>
+  <br/>
+  <i>Saves ~10 minutes every morning. Works with any Claude Code project.</i>
+  <br/><br/>
+  <a href="https://github.com/anmolgupta824/claude-context-manager/stargazers"><img src="https://img.shields.io/badge/Like%20this%3F-Give%20it%20a%20%E2%AD%90-yellow?style=for-the-badge" alt="Star this repo"></a>
+</p>
 
-Works with Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Codex, Devin, and Replit.
+---
 
 ## The Problem
 
